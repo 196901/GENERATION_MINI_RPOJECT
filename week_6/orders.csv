@@ -1,0 +1,23 @@
+Order ID,Customer Name,Customer Address,Phone Number,Courier,Status,Items
+1,John,"Unit 2, 12 Main Street, London, WH1 2ER",0789887334,Royal Mail,Shipped,"Hot Chocolate,Fanta,Americano,Mocha Cortado"
+2,David,"14 Lea Valley , London, SE20 8NS, ",0789887334,DPD,Delivered,"Americano,Mocha Cortado,Flat Black,Flat White"
+3,Joni,"345 High Road, London, E11 3HY ",0789887334,UPS,Preparing,Cortado
+4,Enrico,"456 Markhouse Road, E17 7GH",0789887334,TNT,Out for Delivery,"Cola Zero,Mocha Cortado,Flat Black,Flat White"
+5,Doni,"87 Church Road, London, E10 7HT",0789887334,DPD,Preparing,"Mocha Cortado,Hot Chocolate,Capuccino"
+6,Mathew,"Unit 2, 12 Main Street, London, WH1 2ER",0789887334,Royal Mail,Shipped,"Hot Chocolate,Fanta,Americano,Mocha Cortado"
+7,Sara,"14 Lea Valley , London, SE20 8NS, ",0789887334,TNT,Preparing,"Americano,Mocha Cortado,Flat Black,Flat White"
+8,Sabria,"345 High Road, London, E11 3HY ",0789887334,UPS,Out for Delivery,Cortado
+9,Nexhi,"456 Markhouse Road, E17 7GH",0789887334,Hermes,Preparing,"Cola Zero,Mocha Cortado,Flat Black,Flat White"
+10,Jusuf,"87 Church Road, London, E10 7HT",0789887334,DPD,Delivered,"Mocha Cortado,Hot Chocolate,Capuccino"
+11,Joseph,"87 Church Road, London, E10 7HT",0789887334,DHL,Preparing,"Mocha Cortado,Hot Chocolate,Capuccino"
+12,Justin,"Unit 2, 12 Main Street, London, WH1 2ER",0789887334,Royal Mail,Shipped,"Hot Chocolate,Fanta,Americano,Mocha Cortado"
+13,Donald,"14 Lea Valley , London, SE20 8NS, ",0789887334,DPD,Preparing,"Americano,Mocha Cortado,Flat Black,Flat White"
+14,Bashkim,"345 High Road, London, E11 3HY ",0789887334,UPS,Out for Delivery,Cortado
+15,Eshtref,"456 Markhouse Road, E17 7GH",0789887334,Royal Mail,Preparing,"Cola Zero,Mocha Cortado,Flat Black,Flat White"
+16,Izjadin,"87 Church Road, London, E10 7HT",0789887334,DPD,Delivered,"Mocha Cortado,Hot Chocolate,Capuccino"
+17,Tefik,"Unit 2, 12 Main Street, London, WH1 2ER",0789887334,Hermes,Shipped,"Hot Chocolate,Fanta,Americano,Mocha Cortado"
+18,Xhevat,"14 Lea Valley , London, SE20 8NS, ",0789887334,DPD,Preparing,"Americano,Mocha Cortado,Flat Black,Flat White"
+19,Naim,"345 High Road, London, E11 3HY ",0789887334,UPS,Preparing,Cortado
+20,Ramush,"456 Markhouse Road, E17 7GH",0789887334,Royal Mail,Out for Delivery,"Cola Zero,Mocha Cortado,Flat Black,Flat White"
+21,Avdush,"87 Church Road, London, E10 7HT",0789887334,DPD,Delivered,"Mocha Cortado,Hot Chocolate,Capuccino"
+22,Fehmi,"87 Church Road, London, E10 7HT",0789887334,DHL,Preparing,"Mocha Cortado,Hot Chocolate,Capuccino"
