@@ -16,7 +16,7 @@ jobs:
         run: ls -laR # Recursively list directory contents
 
 count-lines-of-code:
-    name: Count lines of code
+    name: count lines of code
     runs-on: ubuntu-latest
     steps:
       - name: checkout-repo
