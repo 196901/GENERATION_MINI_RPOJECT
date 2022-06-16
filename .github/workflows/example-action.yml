@@ -15,7 +15,7 @@ jobs:
       - name: list-dir
         run: ls -laR # Recursively list directory contents
 
-count-lines-of-code:
+  count-lines-of-code:
     name: count lines of code
     runs-on: ubuntu-latest
     steps:
@@ -25,4 +25,4 @@ count-lines-of-code:
         run: pip install pygount
       - name: count-lines
         run: pygount --format=summary 
-        # /home/runner/work/{your project name/repo}/
+        
