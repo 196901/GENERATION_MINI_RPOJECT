@@ -3,7 +3,7 @@ name: list-repo
 on: 
   push:
     branches:
-      -main
+      - main
 
 jobs:
   list-repo-files:
